@@ -1,10 +1,10 @@
 # eIquidus
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/team-exor/eiquidus?color=ffbd11&label=version)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/team-exor/eiquidus?color=919191&label=version)
 ![GitHub Release Date](https://img.shields.io/github/release-date/team-exor/eiquidus)
 ![GitHub last commit](https://img.shields.io/github/last-commit/team-exor/eiquidus)
 <img src="public/img/screenshots/platform-windows macos linux-lightgrey.svg" />
-![GitHub](https://img.shields.io/github/license/team-exor/eiquidus?color=ffbd11)
+![GitHub](https://img.shields.io/github/license/team-exor/eiquidus?color=919191)
 
 Written in node.js and mongodb, eIquidus is the most stable, secure, customizable and feature-rich open-source block explorer with support for virtually any altcoin that implements some form of the [Bitcoin RPC API protocol](https://developer.bitcoin.org/reference/rpc/index.html). Originally built for the [Exor blockchain](https://github.com/team-exor/exor), eIquidus has since grown into a fully-featured explorer with a focus on stability and security at its core. All features from the [original iquidus explorer](https://github.com/iquidus/explorer) are included here along with many new ideas from other iquidus forks, and an absolute ton of new custom changes and bug fixes that were developed specifically for eIquidus.
 

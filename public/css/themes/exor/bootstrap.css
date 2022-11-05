@@ -12,7 +12,7 @@
  */
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap");
 :root {
-  --bs-blue: #ffbd11;
+  --bs-blue: #919191;
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
   --bs-pink: #e83e8c;
@@ -34,7 +34,7 @@
   --bs-gray-700: #444;
   --bs-gray-800: #303030;
   --bs-gray-900: #222;
-  --bs-primary: #ffbd11;
+  --bs-primary: #919191;
   --bs-secondary: #444;
   --bs-success: #00bc8c;
   --bs-info: #3498db;
@@ -240,7 +240,7 @@ sup {
 }
 
 a {
-  color: #ffbd11;
+  color: #919191;
   text-decoration: none;
   background-color: transparent;
 }
@@ -1978,7 +1978,7 @@ progress {
 }
 
 .table-primary {
-  --bs-table-bg: #ffbd11;
+  --bs-table-bg: #919191;
   --bs-table-striped-bg: #416285;
   --bs-table-striped-color: #fff;
   --bs-table-active-bg: #4b6b8c;
@@ -2478,8 +2478,8 @@ textarea.form-control-lg {
 }
 
 .form-check-input:checked {
-  background-color: #ffbd11;
-  border-color: #ffbd11;
+  background-color: #919191;
+  border-color: #919191;
 }
 
 .form-check-input:checked[type="checkbox"] {
@@ -2491,8 +2491,8 @@ textarea.form-control-lg {
 }
 
 .form-check-input[type="checkbox"]:indeterminate {
-  background-color: #ffbd11;
-  border-color: #ffbd11;
+  background-color: #919191;
+  border-color: #919191;
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3e%3cpath fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='M6 10h8'/%3e%3c/svg%3e");
 }
 
@@ -2583,7 +2583,7 @@ textarea.form-control-lg {
   width: 1rem;
   height: 1rem;
   margin-top: -0.25rem;
-  background-color: #ffbd11;
+  background-color: #919191;
   border: 0;
   border-radius: 1rem;
   -webkit-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -2616,7 +2616,7 @@ textarea.form-control-lg {
 .form-range::-moz-range-thumb {
   width: 1rem;
   height: 1rem;
-  background-color: #ffbd11;
+  background-color: #919191;
   border: 0;
   border-radius: 1rem;
   -moz-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -3997,7 +3997,7 @@ fieldset:disabled .btn {
 .dropdown-item.active, .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #ffbd11;
+  background-color: #919191;
 }
 
 .dropdown-item.disabled, .dropdown-item:disabled {
@@ -4243,7 +4243,7 @@ fieldset:disabled .btn {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #ffbd11;
+  background-color: #919191;
 }
 
 .nav-fill > .nav-link,
@@ -5244,7 +5244,7 @@ fieldset:disabled .btn {
 .page-item.active .page-link {
   z-index: 3;
   color: #000;
-  background-color: #ffbd11;
+  background-color: #919191;
   border-color: transparent;
 }
 
@@ -5462,7 +5462,7 @@ fieldset:disabled .btn {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #ffbd11;
+  background-color: #919191;
   transition: width 0.6s ease;
 }
 
@@ -5556,8 +5556,8 @@ fieldset:disabled .btn {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #ffbd11;
-  border-color: #ffbd11;
+  background-color: #919191;
+  border-color: #919191;
 }
 
 .list-group-item + .list-group-item {
@@ -7036,7 +7036,7 @@ fieldset:disabled .btn {
 }
 
 .link-primary {
-  color: #ffbd11;
+  color: #919191;
 }
 
 .link-primary:hover, .link-primary:focus {
@@ -7518,7 +7518,7 @@ fieldset:disabled .btn {
 }
 
 .border-primary {
-  border-color: #ffbd11 !important;
+  border-color: #919191 !important;
 }
 
 .border-secondary {
@@ -8390,7 +8390,7 @@ fieldset:disabled .btn {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #ffbd11 !important;
+  color: #919191 !important;
 }
 
 .text-secondary {
@@ -8480,8 +8480,8 @@ fieldset:disabled .btn {
 }
 
 .bg-primary {
-  background: linear-gradient(to right, #e2a300, #ffbd11, #e2a300) !important;
-  background-color: #ffbd11 !important;
+  background: linear-gradient(to right, #e2a300, #919191, #e2a300) !important;
+  background-color: #919191 !important;
 }
 
 #side-nav-bar.bg-primary {
