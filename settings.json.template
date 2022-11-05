@@ -433,10 +433,10 @@
           // url: The exact url that the social link should navigate to
           "url": "https://exor.io",
           // fontawesome_class: A string of css classes, separated by spaces that can be used to display a fontawesome icon for this social link. See https://fontawesome.com/ for more info
-          "fontawesome_class": "",
+          "fontawesome_class": "fas fa-globe",
           // image_path: The path to an image file that will be displayed for this social link
           //             NOTE: The path root is /public
-          "image_path": "/img/external.png"
+          "image_path": ""
         },
         {
           // enabled: Enable/disable this particular social link (true/false)
